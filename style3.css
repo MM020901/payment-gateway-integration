@@ -1,0 +1,78 @@
+body{
+background: url("donate.jpg") no-repeat center fixed;
+background-size: cover;
+}
+.firstname{
+border-radius:6px;
+height: 30px;
+width: 200px;
+margin-left: 500px;
+
+}
+.firstlabel{
+margin-left:500px; 
+font-size: 20px;
+color:#F9EBBE
+}
+.lastname{margin-left:500px;
+border-radius:6px;
+height: 30px;
+width: 200px;}
+
+.lastlabel{margin-left:500px;
+color: brown;
+font-size: 20px;
+color:#F9EBBE;}
+
+.email{margin-left:500px;
+border-radius:6px;
+color:#F9EBBE;
+height: 30px;
+font-size: 20px;
+width: 400px;}
+
+.code{margin-left:500px;
+border-radius:6px;
+height: 30px;
+width: 200px;}
+
+.area-code{margin-left:500px;
+font-size: 20px;
+color:#F9EBBE}
+
+.number{margin-left:500px;
+border-radius:6px;
+height: 30px;
+width: 200px;}
+
+.phone-number{margin-left:500px;
+font-size: 20px;
+color:#F9EBBE}
+
+.summary{
+    display: flex;
+    margin: 20px 0px;
+    
+}
+.summary h2{
+    margin: 10px 5px;
+}
+.summary textarea{
+    margin: 5px 300px;
+	border-radius:6px;
+height: 150px;
+width: 400px;
+}
+
+.submit {
+    margin-left: 530px;
+	border-radius:6px;
+height: 30px;
+width: 200px;
+}
+textarea{
+    margin-left: 500px;
+    margin-bottom: 100px;
+    width: 40%;
+}
+

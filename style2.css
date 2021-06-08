@@ -1,0 +1,20 @@
+body {
+	background: url("https://static.independent.co.uk/2021/04/24/16/Virus_Outbreak_India%27s_Oxygen_Crisis_Photo_Gallery_45497.jpg?width=1200&auto=webp&quality=75") no-repeat  center fixed;
+	background-size: cover;
+	}
+	p {
+		color: white;
+	margin:50px;
+	}
+	h1 {
+		color:#FE451D;
+		text-align:center;
+		}
+	h2 {
+		color: #F28CFE;
+		text-align:center;
+		font-size: 2em;
+		padding: 5px;
+		width:600px;
+		margin-left: 330px;
+		}
